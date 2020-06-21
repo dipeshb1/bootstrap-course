@@ -5,7 +5,7 @@
 .row-content{
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge #D1C4E9;
+    border-bottom: 1px ridge #958fa0;
     min-height: 400px;
 }
 .footer{
@@ -16,7 +16,7 @@
 .jumbotron{
     padding: 70px 30px;
     margin: 0px auto;
-    background-color: rgb(89, 78, 250);
+    background-color: #9575CD;
     color: floralwhite;
 }
 .address{
